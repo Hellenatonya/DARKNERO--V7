@@ -25,7 +25,7 @@ global.location = "Kenya, Kakamega, Lurambi" //ur location
 //bot bomdy 
 global.ownernomer = "254113406513" //ur number
 global.premium = ['254113406513'] //ur premium number
-global.botname = 'Grifo bot ' //ur bot name
+global.botname = '✩ͯ🄶🅁🄸🄵🄵🄾✵ 🆃︎🅴︎🅲︎🅷︎✩ͯ ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Kd6oWVcC3818KmhuNv3A3u" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/Kd6oWVcC3818KmhuNv3A3u" //ur website to be displayed
 global.botscript = 'https://github.com/mudenyo' //script link
