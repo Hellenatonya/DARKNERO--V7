@@ -17,7 +17,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
 global.owner = ['254113406513'] //ur owner number
-global.ownername = "Griffo" //ur owner name
+global.ownername = "✩ͯ🄶🅁🄸🄵🄵🄾✵ 🆃︎🅴︎🅲︎🅷︎✩ͯ" //ur owner name
 global.ytname = "YT:Grifo tech" //ur yt chanel name
 global.socialm = "GRIFO" //ur github or insta name
 global.location = "Kenya, Kakamega, Lurambi" //ur location
@@ -30,8 +30,8 @@ global.linkz = "https://chat.whatsapp.com/Kd6oWVcC3818KmhuNv3A3u" //your theme u
 global.websitex = "https://chat.whatsapp.com/Kd6oWVcC3818KmhuNv3A3u" //ur website to be displayed
 global.botscript = 'https://github.com/mudenyo' //script link
 global.themeemoji = "👽" //ur theme emoji
-global.packname = "stickers by GRIFO " //ur sticker watermark packname
-global.author = "Griffo bot  stickers" //ur sticker watermark author
+global.packname = "✩ͯ🄶🅁🄸🄵🄵🄾✵ 🆃︎🅴︎🅲︎🅷︎✩ͯ " //ur sticker watermark packname
+global.author = "✩ͯ🄶🅁🄸🄵🄵🄾✵ 🆃︎🅴︎🅲︎🅷︎✩ͯ" //ur sticker watermark author
 
 var _0x2fd240=_0x5d66;function _0x5d66(_0x2ed051,_0xea9c3d){var _0x5c160d=_0x5c16();return _0x5d66=function(_0x5d6646,_0x1ee10e){_0x5d6646=_0x5d6646-0xc6;var _0x7008c7=_0x5c160d[_0x5d6646];return _0x7008c7;},_0x5d66(_0x2ed051,_0xea9c3d);}function _0x5c16(){var _0xb255da=['2jDiFWA','8aWcQnA','113286QJfYpn','6059328QjoMDh','ᴅᴀʀᴋ\x20ɴʀᴏ\x20ɪɴᴄ.','45690fWERUs','14764014AlhUzm','12947WUdmEf','193525bBWOoQ','1547207Yhtbak','3803619dJdWHA','273TMzuoe'];_0x5c16=function(){return _0xb255da;};return _0x5c16();}(function(_0x3d70d1,_0x31d4ac){var _0x20a773=_0x5d66,_0x24c12f=_0x3d70d1();while(!![]){try{var _0x2d4a88=-parseInt(_0x20a773(0xcf))/0x1*(parseInt(_0x20a773(0xc6))/0x2)+-parseInt(_0x20a773(0xd0))/0x3+parseInt(_0x20a773(0xc7))/0x4*(-parseInt(_0x20a773(0xce))/0x5)+parseInt(_0x20a773(0xc8))/0x6*(-parseInt(_0x20a773(0xd1))/0x7)+parseInt(_0x20a773(0xc9))/0x8+-parseInt(_0x20a773(0xcc))/0x9+parseInt(_0x20a773(0xcb))/0xa*(parseInt(_0x20a773(0xcd))/0xb);if(_0x2d4a88===_0x31d4ac)break;else _0x24c12f['push'](_0x24c12f['shift']());}catch(_0xa25d7c){_0x24c12f['push'](_0x24c12f['shift']());}}}(_0x5c16,0xd362a),global['wm']=_0x2fd240(0xca));
 
@@ -50,7 +50,7 @@ global.mess = {
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'In process...',
+    wait: 'tulia nugu...',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
